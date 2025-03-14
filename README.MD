@@ -1,1 +1,0 @@
-https://github.com/gtyxf-lab/posmotri-v-okno-fd
